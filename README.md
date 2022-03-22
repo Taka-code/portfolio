@@ -1,6 +1,8 @@
-# git clone してください！
+# 俺流！　ニューモーフィズムが使いたくて作ったポートフォリオサイト（制作途中）
 
-$ git clone https://github.com/Taka-code/portfolio.git
+## git clone しよう
+
+    $ git clone https://github.com/Taka-code/portfolio.git
 
 をターミナルで叩いてください！
 

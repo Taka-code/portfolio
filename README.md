@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# git clone してください！
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+$ git clone https://github.com/Taka-code/portfolio.git
+
+をターミナルで叩いてください！
 
 ## Available Scripts
 

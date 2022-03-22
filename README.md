@@ -1,11 +1,10 @@
-# 俺流！　ニューモーフィズムが使いたくて作ったポートフォリオサイト（制作途中）
+# 　ニューモーフィズムが使いたくて作ったポートフォリオサイト（制作途中）
 
-##　サイトのみかた
 
 ___
 
 
-## git clone しよう
+## サイトを見るためにgit cloneしてください。
 ターミナルを開いて、cloneしたいディレクトリまで移動して、
 
     $ git clone https://github.com/Taka-code/portfolio.git
@@ -59,6 +58,21 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+# 　作品説明
+
+## なぜ作った？
+前々からニューモーフィズムを使ってみたくて作りました。
+
+## ただのニューモーフィズム？
+いいえ、自分なりに工夫しました。自分がニューモーフィズムの話をした際に、『ニューモーフィズムが嫌い』と言う友達がいて、彼曰く『触れそうでさわれない感じが嫌だ、ホバーやタップした時のUXがいまいちパッとしない、そこまでリアルにしなくていいんじゃないか？』など意見があったため、ボーダーラインを『彼でも好きになれるようなニューモーフィズム』に決めてデザイン作業に移りました。
+たとえば、要素をホバーした際に見られるニューモーフィズム独特のshadowの調節によるアニメーション表現ではなく、思い切って『赤』を使い、自分が今フォーカスしている要素がはっきりわかるようにしました。しかし、そうしてしまうとアニメーション前の要素に違和感を感じてしまうので、ニューモーフィズム自体を柔らかく表現し『リアルすぎず、洗練されたデザイン』に落とし込めるように心がけました。
+
+
+## 他には？
+まだ制作途中ですので、レスポンシブ太陽できていなかったりと至らない点がありますが、スルーしてくれると助かります。
+
+
 
 ## Learn More
 

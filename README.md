@@ -1,10 +1,27 @@
 # 俺流！　ニューモーフィズムが使いたくて作ったポートフォリオサイト（制作途中）
 
+##サイトのみかた
+
+___
+
+
 ## git clone しよう
+ターミナルを開いて、cloneしたいディレクトリまで移動して、
 
     $ git clone https://github.com/Taka-code/portfolio.git
 
-をターミナルで叩いてください！
+を叩いてください。
+cloneできたら、
+
+        $ cd folderName 
+でclone先のフォルダに移動して、
+
+        $ npm install
+ を叩く。
+ その後、
+
+         $ npm i react-simple-typewriter
+ でライブラリの追加。
 
 ## Available Scripts
 

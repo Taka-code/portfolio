@@ -70,7 +70,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 ## 他には？
-まだ制作途中ですので、レスポンシブ太陽できていなかったりと至らない点がありますが、スルーしてくれると助かります。
+まだ制作途中ですので、レスポンシブ対応できていなかったりと至らない点がありますが、スルーしてくれると助かります。
 
 
 
